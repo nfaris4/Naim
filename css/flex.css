@@ -1,0 +1,34 @@
+#header {
+  background-color: Dodgerblue;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+#firstline {
+  background-color: gray;
+}
+
+#firstlineRight {
+  background-color: red;
+  display: flex;
+}
+
+#firstlineLeft {
+  background-color: green;
+  display: flex;
+}
+
+#secondline {
+  background-color: gray;
+}
+
+#secondlineLeft {
+  background-color: blue;
+  display: flex;
+}
+
+#secondlineRight {
+  background-color: yellow;
+  display: flex;
+}
