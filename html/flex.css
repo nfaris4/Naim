@@ -1,0 +1,30 @@
+#header{
+    background-color: Dodgerblue;
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content:center
+}
+
+#firstline {
+ background-color: gray 
+}
+
+#firstlineRight {
+  background-color: red
+}
+
+#firstlineLeft {
+  background-color: green
+}
+
+#secondline{
+  background-color: violet
+}
+
+#secondlineLeft{
+  background-color: blue
+}
+
+#secondlineRight{
+  background-color: yellow
+}
